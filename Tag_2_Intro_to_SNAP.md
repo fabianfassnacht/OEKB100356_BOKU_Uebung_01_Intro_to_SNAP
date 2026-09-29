@@ -6,7 +6,7 @@ Einführung in die Fernerkundung - Tag 1 - SNAP
 
 ### Allgemeine Hinweise
 
-Es empfiehlt sich für die Übungen immer einen eigenen lokalen Ordner anzulegen und zu verwenden (z.B. **…\FE_Kurs\02_SNAP**). Ich rate ausdrücklich von der Verwendung des Desktops und der "Dokumente" oder ähnlicher Ordner ab, die insbesondere bei späteren Aufgaben mit R zu Problemen führen können. Im Idealfall sollte man bei der Ordnererstellung darauf achten keine Sonderzeichen (wie z.B. "ä", "ü", "ö", "ß", "%" usw.) zu verwenden
+Es empfiehlt sich für die Übungen immer einen eigenen lokalen Ordner anzulegen und zu verwenden (z.B. **…\FE_Kurs\02_SNAP**). Ich rate ausdrücklich von der Verwendung des Desktops und der "Dokumente" oder ähnlicher Ordner ab, die insbesondere bei späteren Aufgaben mit R zu Problemen führen können. Im Idealfall sollte man bei der Ordnererstellung darauf achten keine Sonderzeichen (wie z.B. "ä", "ü", "ö", "ß", "%" usw.) oder Leerzeichen zu verwenden
 
 **Daten:**
 
@@ -22,7 +22,7 @@ Die im Folgenden verwendete Software SNAP, entwickelt von der Europäischen Welt
 
 https://step.esa.int/main/download/snap-download/
 
-Sollten Sie die Tutorials vorranging zu Hause bearbeiten, sollten Sie die Software herunterladen und auf ihrem privaten Rechner installieren. Alternativ ist die Software auch im EDV-Raum am Institut für Geomatik installiert und kann zu den festgelegten Tutoriums-Zeiten oder wenn die Räume nicht durch andere Lehrveranstaltungen belegt sind nach Rücksprache genutzt werden. 
+Falls ihr die Tutorials vorranging zu Hause bearbeiten wollt, müsst ihr die Software herunterladen und auf eurem privaten Rechner installieren. Alternativ ist die Software auch im EDV-Raum am Institut für Geomatik installiert und kann zu den festgelegten Tutoriums-Zeiten oder wenn die Räume nicht durch andere Lehrveranstaltungen belegt sind (nach Rücksprache) genutzt werden. 
 
 ### 2.1 Lernziele
 

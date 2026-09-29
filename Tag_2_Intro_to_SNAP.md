@@ -188,7 +188,7 @@ Wenn wir dieses neu erstelle Produkt jetzt anwählen und dann wiederum versuchen
 
 ## HAUSAUFGABE
 
-1. Notieren Sie sich die Spektralwerte der unten genannten Sentinel-2 Bänder für jeweils 3 Pixel die, die Landbedeckungsklassen **"Wasser"**, **"Wald"** und **"Versiegelte Fläche"** repräsentieren (insgesamt Werte für 9 Pixel).
+1. Notiert euch die Spektralwerte der unten genannten Sentinel-2 Bänder für jeweils 3 Pixel die, die Landbedeckungsklassen **"Wasser"**, **"Wald"** und **"Versiegelte Fläche"** repräsentieren (insgesamt Werte für 9 Pixel).
 
 Band 2 (blue)
 Band 3 (green)
@@ -197,9 +197,10 @@ Band 5 (red edge)
 Band 8 (NIR)
 Band 11 (SWIR)
 
-2. Stellen Sie die Werte als ein Spektrum dar (ein Plot der auf der X-Achse entweder die Wellenlänge oder die Bandnummer und auf der Y-Achse die Spektralwerte zeigt - im Idealfall sind die punktuellen Messungen mit einer Linie verbunden - siehe Abbildung 13 für ein Beispiel). Nutzen Sie z.B. Excel oder R um die Grafik zu erstellen (sie können alternativ auch ChatGPT bitten basierend auf ihren Daten eine solche Grafik anzufertigen oder die Grafik von Hand zeichnen). 
+2. Stellt die Werte als ein Spektrum dar (ein Plot der auf der X-Achse entweder die Wellenlänge oder die Bandnummer und auf der Y-Achse die Spektralwerte zeigt - im Idealfall sind die punktuellen Messungen mit einer Linie verbunden - siehe Abbildung 13 für ein Beispiel). Nutzt z.B. Excel oder R um die Grafik zu erstellen (sie können alternativ auch ChatGPT bitten basierend auf ihren Daten eine solche Grafik anzufertigen oder die Grafik von Hand zeichnen). 
 
 ![Abbildung 13: Beispiel für ein Spektrum](Fig_13.png)
 
 **Abbildung 13: Beispiel für ein Spektrum**
 
+Fasst eure Ergebnisse in einer Powerpoint-Präsentation oder einem Worddokument zusammen und ladet diese bitte als PDF auf BOKUlearn hoch.
